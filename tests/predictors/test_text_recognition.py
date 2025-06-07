@@ -1,6 +1,6 @@
 import pytest
 
-from paddleocr import TextRecognition
+from paddleocr_backup import TextRecognition
 from ..testing_utils import TEST_DATA_DIR, check_simple_inference_result
 
 

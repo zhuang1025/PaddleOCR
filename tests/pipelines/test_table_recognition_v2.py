@@ -1,6 +1,6 @@
 import pytest
 
-from paddleocr import TableRecognitionPipelineV2
+from paddleocr_backup import TableRecognitionPipelineV2
 from ..testing_utils import (
     TEST_DATA_DIR,
     check_simple_inference_result,

@@ -1,6 +1,6 @@
 import pytest
 
-from paddleocr import PaddleOCR
+from paddleocr_backup import PaddleOCR
 from ..testing_utils import (
     TEST_DATA_DIR,
     check_simple_inference_result,

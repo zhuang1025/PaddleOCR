@@ -1,6 +1,6 @@
 import pytest
 
-from paddleocr import PPChatOCRv4Doc
+from paddleocr_backup import PPChatOCRv4Doc
 from ..testing_utils import TEST_DATA_DIR
 
 

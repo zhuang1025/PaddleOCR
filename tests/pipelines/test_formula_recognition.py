@@ -1,6 +1,6 @@
 import pytest
 
-from paddleocr import FormulaRecognitionPipeline
+from paddleocr_backup import FormulaRecognitionPipeline
 from ..testing_utils import (
     TEST_DATA_DIR,
     check_simple_inference_result,
